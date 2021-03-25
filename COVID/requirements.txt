@@ -83,7 +83,7 @@ pyparsing==2.2.2
 PySocks==1.6.8
 python-dateutil==2.7.3
 pytz==2018.5
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==17.1.2
 qtconsole==4.4.2
 redis==3.4.1
