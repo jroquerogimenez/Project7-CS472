@@ -77,7 +77,7 @@ pyabc==0.10.1
 pyarrow==0.16.0
 pycosat==0.6.3
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==18.0.0
 pyparsing==2.2.2
 PySocks==1.6.8
